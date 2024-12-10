@@ -1,0 +1,9 @@
+1,1,2,main.out
+2,2,2,main.in
+3,-1,2,main.inv
+4,-1,1,main.isz.out
+5,-1,1,main.isz.in[0]
+6,-1,1,main.isz.in[1]
+7,-1,0,main.isz.IsZero_33_516.out
+8,-1,0,main.isz.IsZero_33_516.in
+9,3,0,main.isz.IsZero_33_516.inv

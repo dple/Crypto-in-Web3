@@ -1,0 +1,16 @@
+[31;22m[ERROR] [39;1msnarkJS[0m: Error: ENOENT: no such file or directory, open 'public.json'
+    at Object.openSync (node:fs:601:3)
+    at Object.readFileSync (node:fs:469:35)
+    at Object.zkeyExportSolidityCalldata [as action] (C:\Users\leduc\AppData\Roaming\npm\node_modules\snarkjs\build\cli.cjs:13116:51)
+    at clProcessor (C:\Users\leduc\AppData\Roaming\npm\node_modules\snarkjs\build\cli.cjs:483:37)
+    at Object.<anonymous> (C:\Users\leduc\AppData\Roaming\npm\node_modules\snarkjs\build\cli.cjs:12790:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12) {
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'public.json'
+}

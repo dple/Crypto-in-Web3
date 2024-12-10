@@ -1,0 +1,13 @@
+1,1,2,main.out
+2,2,2,main.inputs[0]
+3,3,2,main.inputs[1]
+4,4,2,main.inputs[2]
+5,5,2,main.inputs[3]
+6,6,2,main.inputs[4]
+7,7,2,main.n_inv
+8,8,1,main.ise.out
+9,-1,1,main.ise.in[0]
+10,-1,1,main.ise.in[1]
+11,-1,0,main.ise.IsZero_21_328.out
+12,-1,0,main.ise.IsZero_21_328.in
+13,9,0,main.ise.IsZero_21_328.inv
